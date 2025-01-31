@@ -1,5 +1,4 @@
 (function () {
-  // Переключаем класс 'open' на иконке бургера и на body
   document.addEventListener("DOMContentLoaded", function () {
     document.addEventListener("click", function (e) {
       const burgerIcon = e.target.closest(".burger-icon");
