@@ -38,6 +38,7 @@ input,
 button,
 textarea {
   font-family: inherit;
+  white-space: nowrap;
 }
 input::-ms-clear {
   display: none;
