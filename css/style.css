@@ -46,7 +46,11 @@ body {
   width: 100%;
   align-items: center;
   font-weight: 600;
-  font-size: 20px;
+}
+.sidebar__logo a:last-child {
+  text-align: center;
+  margin-left: 40px;
+  font-size: 25px;
 }
 .menu svg {
   margin: 30px 0;
