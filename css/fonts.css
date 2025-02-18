@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "Arkhip";
+  src: local("Arkhip"), url("/fonts/Arkhip.woff2") format("woff2"),
+    url("/fonts/Arkhip.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Inter 18pt";
+  src: local("Inter 18pt Regular"), local("Inter18pt-Regular"),
+    url("/fonts/Inter18pt-Regular.woff2") format("woff2"),
+    url("/fonts/Inter18pt-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Inter 24pt";
+  src: local("Inter 24pt Bold"), local("Inter24pt-Bold"),
+    url("/fonts/Inter24pt-Bold.woff2") format("woff2"),
+    url("/fonts/Inter24pt-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
